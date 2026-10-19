@@ -1,0 +1,11 @@
+.title {
+    text-align: center;
+    color: red;
+    font-size: 28px;
+    margin-bottom: 30px;
+}
+
+.card-list {
+    width: 370px;
+    margin: 0 auto;
+}
