@@ -2,3 +2,7 @@
 *.mkv
 *.mov
 *.avi
+
+node_modules/
+dist/
+.env
